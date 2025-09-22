@@ -2,11 +2,7 @@
 
 **`Desenvolvedor fullstack`**
 
-Cursando analise e desenvolvimento de sistemas, trabalhando na area da programaçao a 7 meses. Sou apaixonado pela tecnologia e tudo que ela pode trasnformar na vida das pessoas. 💜
-
-meu portifolio:
-https://huggingface.co/spaces/Rushzin7/portifolio
-
+Cursando analise e desenvolvimento de sistemas, trabalhando na area da programaçao a mais de um ano. Sou apaixonado pela tecnologia e tudo que ela pode trasnformar na vida das pessoas. 💜
 
 <table>
   <tr>
